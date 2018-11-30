@@ -206,7 +206,7 @@ label.screen-reader-text {
     z-index: 9999;
 }
 #loaderInner {
-    background:#000 url(../images/load.png) center center no-repeat;
+    /*background:#000 url(../images/load.png) center center no-repeat;*/
     height: 100px;
     left: 46%;
     position: absolute;
